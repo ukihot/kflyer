@@ -1,6 +1,6 @@
 {
 	"version": "1",
-	"manifestHash": "qjp4vf",
+	"manifestHash": "ler5vp",
 	"options": {
 		"target": "client",
 		"buildMode": "production",
@@ -450,7 +450,7 @@
 			"origin": "components/router-head/router-head.tsx",
 			"loc": [
 				243,
-				1201
+				1079
 			]
 		},
 		"s_1raneLGffO8": {
@@ -476,7 +476,7 @@
 			"origin": "routes/index.tsx",
 			"loc": [
 				134,
-				311
+				284
 			]
 		},
 		"s_MiPVFWJLcMo": {
@@ -554,7 +554,7 @@
 			"origin": "root.tsx",
 			"loc": [
 				245,
-				832
+				766
 			]
 		},
 		"s_K4gvalEGCME": {
