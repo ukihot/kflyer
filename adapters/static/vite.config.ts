@@ -12,7 +12,7 @@ export default extendConfig(baseConfig, () => {
     },
     plugins: [
       staticAdapter({
-        origin: "https://ukihot.github.io/kb-flyer",
+        origin: "https://4hoe8pow.github.io/k-flyer",
       }),
     ],
   };

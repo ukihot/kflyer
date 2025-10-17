@@ -1,4 +1,4 @@
-name: Deploy kb-flyer
+name: Deploy k-flyer
 
 on:
   push:
@@ -34,5 +34,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: gh-pages
-          commit_message: "ci: deploy kb-flyer via bun from ${GITHUB_SHA}"
+          commit_message: "ci: deploy k-flyer via bun from ${GITHUB_SHA}"
           allow_empty_commit: true
