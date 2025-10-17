@@ -7,7 +7,6 @@
         "@biomejs/biome": "2.2.6",
         "@builder.io/qwik": "^1.17.0",
         "@builder.io/qwik-city": "^1.17.0",
-        "@eslint/js": "latest",
         "@tailwindcss/vite": "^4.1.14",
         "@types/node": "24.8.1",
         "eslint": "9.37.0",
